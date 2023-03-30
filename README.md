@@ -15,3 +15,7 @@ N4IgxiBcoG5QzAOngGhAZwPYDMAuARAJ0wAcBJAEygCY0BzAQwFsBTAZVwcNygEYA2ABwAGXgHYAnL2F
 </details>
 
 Youtube Link: https://youtu.be/efzZjMJ46_0
+
+Copy paste index.js to developer console (F12)
+
+Because Jstris blocks F12, you must open the devtools before accessing Jstris
