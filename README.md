@@ -1,5 +1,6 @@
 # JSTRIS BOT ULTRA
 ## USE ONLY IN PRACTICE MODE
+### The current scoring algorithm is poor and can behave strangely.
 
 <img width="859" alt="스크린샷 2023-03-30 오후 9 33 22" src="https://user-images.githubusercontent.com/30382481/228837079-bde52721-34ad-4b2a-a878-f4a809dcc2ff.png">
 
